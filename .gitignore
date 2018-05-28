@@ -1,47 +1,44 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+[Oo]bj/
+[Bb]in/
+*.xap
+*.user
+/TestResults
+*.vspscc
+*.vssscc
+*.suo
+*.cache
+*.docstates
+_ReSharper.*
+*.csproj.user
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
+packages/*
+artifacts/*
+msbuild.log
+PublishProfiles/
+*.psess
+*.vsp
+*.pidb
+*.userprefs
+*DS_Store
+*.ncrunchsolution
+*.log
+*.vspx
+/.symbols
+nuget.exe
+build/
+*net45.csproj
+*k10.csproj
+App_Data/
+bower_components
+node_modules
+*.sln.ide
+src/*/wwwroot/lib
+src/*/wwwroot/Scripts
+src/*/wwwroot/Content/site.*css
+*.ng.ts
+*.sln.ide
+*.orig
+/PartsUnlimitedLite/packages/Newtonsoft.Json.6.0.4/lib
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+.vs/config/applicationhost.config
